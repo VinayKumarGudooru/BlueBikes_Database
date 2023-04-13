@@ -1,4 +1,4 @@
-# :bike: BlueBikes-Database
+# :bike: BlueBikes-Database - GROUP 4
 Blue Bikes Database System is a database management system designed to support the operations of a bike-sharing program. This system is built to handle large amounts of data related to bike rentals, maintenance, and other aspects of the bike-sharing program.
 
 # :pencil: Project Description
@@ -6,7 +6,7 @@ The Blue Bikes database system is a comprehensive database management system des
 
 In addition to the basic table structures, the Blue Bikes database system also includes a range of advanced features, such as stored procedures, functions, views, non-clustered indexes, and DML triggers, to help ensure optimal performance, reliability, and data integrity. The system also uses data encryption to help protect sensitive customer information and ensure compliance with relevant data privacy regulations.
 
-# Live Links:
+# :link: Live Links:
 
 <img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />  https://public.tableau.com/app/profile/sivaranjani.suresh.manivannan/viz/BlueBikesAnalysis_16811794204570/Dashboard1?publish=yes
 
@@ -28,7 +28,6 @@ Frontend:
 # :bar_chart: Visualisation
 
 <img width="1104" alt="image" src="https://user-images.githubusercontent.com/114537365/231584861-71c143f9-df25-4678-ae18-83a29cd0e7d5.png">
-
 
 
 
