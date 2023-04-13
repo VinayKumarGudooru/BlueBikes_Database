@@ -32,6 +32,7 @@ Frontend:
 # Graphical User Interface
 
 
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/114537365/231621755-e84c92ea-2973-4729-9eed-da24293edbd5.png">
 
 
 
