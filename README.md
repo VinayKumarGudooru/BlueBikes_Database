@@ -10,7 +10,7 @@ In addition to the basic table structures, the Blue Bikes database system also i
 
 <img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />  https://public.tableau.com/app/profile/sivaranjani.suresh.manivannan/viz/BlueBikesAnalysis_16811794204570/Dashboard1?publish=yes
 
-Codelabs Documentation:
+Codelabs Documentation: https://codelabs-preview.appspot.com/?file_id=1t_ijLBtWP5A_BNETr3BXOmz3OXgmB7L5umSoBzriHwI#2
 
 # Technologies Used
 Backend: 
