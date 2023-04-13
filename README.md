@@ -6,7 +6,7 @@ The Blue Bikes database system is a comprehensive database management system des
 
 In addition to the basic table structures, the Blue Bikes database system also includes a range of advanced features, such as stored procedures, functions, views, non-clustered indexes, and DML triggers, to help ensure optimal performance, reliability, and data integrity. The system also uses data encryption to help protect sensitive customer information and ensure compliance with relevant data privacy regulations.
 
-# :link: Live Links:
+# :link: Live Links
 
 <img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />  https://public.tableau.com/app/profile/sivaranjani.suresh.manivannan/viz/BlueBikesAnalysis_16811794204570/Dashboard1?publish=yes
 
